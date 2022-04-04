@@ -3,21 +3,9 @@
 body{
     font-family: 'Poppins', 'Helvetica', serif;
 }
-.container {
-    width: fit-content;
-    background-color:white;
-    border-radius: 8px;
-    border: 1px solid rgb(218, 215, 215);
-    box-shadow: 10px 10px 10px rgb(218, 215, 215);
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 5px;
-
-}
 
 header{
-    background-color: rgb(48, 156, 189);
+    background-color: #309cbd;
     color: rgb(255, 255, 255);
     height: 50px;
     margin-bottom: 20px;
@@ -25,6 +13,39 @@ header{
     box-shadow: 1px 9px 8px rgb(218, 215, 215);
 }
 
-.hero {
-    background-color: palevioletred;
+.jumbotron{
+    padding-top: 2rem;
+    padding-left:0;
+    padding-right: 0;
+    padding-bottom: 0;
+    background-color: #d6edf6;
 }
+
+img{
+    width: 200px;
+}
+
+.contact{
+    background-color: #d6edf6;
+}
+
+span{
+    font-size: 18px;
+}
+
+.ask a{
+    text-decoration: none;
+    color: black;
+}
+
+footer{
+    background-color: #309cbd;
+}
+
+p a{
+    color: white;
+}
+
+
+
+
