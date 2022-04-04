@@ -17,7 +17,7 @@
         <h3 class="text-left">Hi, Welcome to my page</h3>
     </header>
     <section class="jumbotron text-center">
-        <img src="img/prof.jpg" class="rounded-circle img-thumbnail" alt="my photo">
+        <img src="img/prof.jpg" class="rounded-circle img-thumbnail" alt="my photo" width="200">
         <h1 class="display-5">Siti Aprillah Risti</h1>
         <p class="lead">Pelajar | Aktivis Dakwah</p>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#fff" fill-opacity="1" d="M0,64L48,64C96,64,192,64,288,96C384,128,480,192,576,229.3C672,267,768,277,864,240C960,203,1056,117,1152,85.3C1248,53,1344,75,1392,85.3L1440,96L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path></svg>
